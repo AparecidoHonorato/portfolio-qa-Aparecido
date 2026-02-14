@@ -1,7 +1,7 @@
 # portfolio-qa-Aparecido Gomes
 
 
-Este repositório reúne projetos práticos de testes de software, com foco em QA manual.
+Este repositório reúne projetos práticos de testes de software, com foco em QA manual e automatizado.
 
 ## Conteúdo
 
