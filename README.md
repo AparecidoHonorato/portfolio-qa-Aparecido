@@ -1,5 +1,5 @@
-# portfolio-qa-Aparecido
-# Portfólio de QA — Junior Gomes
+# portfolio-qa-Aparecido Gomes
+
 
 Este repositório reúne projetos práticos de testes de software, com foco em QA manual.
 
